@@ -1,4 +1,4 @@
-"Laugh and the world laughs with you, snore and you
+﻿"Laugh and the world laughs with you, snore and you
  sleep alone." -- Anthony Burgess
 .
 "A successful man is one who makes more money than his
@@ -43,7 +43,7 @@
 .
 "An idealist is one who, on noticing that a rose smells better
  than a cabbage, concludes that it will also make better
- soup. -- H. L. Mencken
+ soup." -- H. L. Mencken
 .
 "A cynic is a man who, when he smells flowers, looks around
  for a coffin." -- H. L. Mencken
@@ -713,15 +713,20 @@ Laws Of Project Management:
 .
 "The government of the United States is in no sense founded on the
  Christian Religion." -- George Washington
+.
 "I do not find in Christianity one redeeming feature."
  -- Thomas Jefferson
+.
 "The Bible is not my book, nor Christianity my religion."
  -- Abraham Lincoln
+.
 "A just government has no need for the clergy or the church."
  -- James Madison
+ .
 "I believe in an America where religious intolerance will someday
  end... where every man has the same right to attend or not attend
  the church of his choice." -- John F. Kennedy
+.
 "We are a nation of Christians and Muslims, Jews and Hindus -- and
  nonbelievers." -- Barack Obama
 .
@@ -1635,7 +1640,7 @@ Laws Of Project Management:
 "I do note with interest that old women in my books become young
  women on the covers... this is discrimination against the
  chronologically gifted."
- --Terry Pratchett
+ -- Terry Pratchett
 .
 "Albert grunted. 'Do you know what happens to lads who ask too
  many questions?'
@@ -1861,7 +1866,7 @@ Laws Of Project Management:
 .
 "If all the economists in the world were laid end-to-end, they
  would still not reach a conclusion." -- unknown
-
+.
 "If all the girls from Vassar were laid end-to-end, I wouldn't
  be surprised." -- Dorothy Parker
 .
@@ -2198,7 +2203,7 @@ words, and sound best when yelled."
 .
 "Be kind; everyone you meet is fighting a hard battle."
  -- Plato
-
+.
  The enemy is anybody who's going to get you killed, no matter
  which side he is on."
  -- Joseph Heller
@@ -2248,12 +2253,12 @@ words, and sound best when yelled."
  Martin Luther King, Jr. and Kennedy and Gandhi got shot."
  -- John Lennon
 .
-"Does anybody know who Lee Harvey Oswald was? . . . And do you
- know how far away he was? . . . Two hundred and fifty feet. He
+"Does anybody know who Lee Harvey Oswald was? ... And do you
+ know how far away he was? ... Two hundred and fifty feet. He
  was two hundred and fifty feet away and shooting at a moving
  target. He got off three shots with a bolt action rifle in six
  seconds, and got two hits, including a head shot. Do you know
- where those men learned to shoot like that? . . . In the
+ where those men learned to shoot like that? ... In the
  Marines! Outstanding! Those individuals showed what one
  motivated marine and his rifle can do! And before you ladies
  leave my island, you will be able to do the same thing!"
@@ -2353,7 +2358,7 @@ words, and sound best when yelled."
     was created
 .
 "If there has to be a blood bath, let's get it over with."
- --Ronald Reagan, Vietnam
+ -- Ronald Reagan, Vietnam
 .
 "You will kill ten of our men, and we will kill one of yours,
  and in the end it will be you who tire of it."
@@ -3158,11 +3163,11 @@ words, and sound best when yelled."
 .
 "Yes, my friends, I too am prepared to die for a cause, but
  there is no cause for which I am prepared to kill."
- --Mohandas Gandhi
+ -- Mohandas Gandhi
 .
 "Experience is a hard teacher because she gives the test first,
  the lesson afterwards."
- --Vernon Saunders Law
+ -- Vernon Saunders Law
 .
 "It is your business, when the wall next door catches fire."
  -- Horace
@@ -3201,7 +3206,7 @@ words, and sound best when yelled."
  -- Karl Marx
 .
 "There is enough for man's need but not for man's greed."
- --Mohandas Gandhi
+ -- Mohandas Gandhi
 .
 "Before you speak, ask yourself is it kind, is it necessary, is
  it true, does it improve on the silence?"
@@ -3215,7 +3220,7 @@ words, and sound best when yelled."
  those who make empty prophecies. The danger already exists that
  mathematicians have made a covenant with the devil to darken
  the spirit and confine man in the bonds of Hell."
- --Saint Augustine
+ -- Saint Augustine
 .
 "I object to violence because when it appears to do good, the
  good is only temporary; the evil it does is permanent."
@@ -3594,8 +3599,8 @@ words, and sound best when yelled."
 .
 "If I could find a way to get [Saddam Hussein] out of there, even
  putting a contract out on him, ... ahh ... if the CIA still did
- that sort of thing, . . . ahh . . . assuming it ever did . . . .
- . . . I would be for it." -- Richard Nixon
+ that sort of thing, ... ahh ... assuming it ever did ....
+ ... I would be for it." -- Richard Nixon
 .
 "I never advocated war except as a means of peace."
  -- Ulysses S. Grant
@@ -3687,8 +3692,8 @@ words, and sound best when yelled."
 "Politics is war without bloodshed while war is politics with
  bloodshed."
  -- Mao Tse Tung
-
- When a stupid man is doing something he is ashamed of, he
+.
+"When a stupid man is doing something he is ashamed of, he
  always declares that it is his duty."
  -- George Bernard Shaw
 .
@@ -4211,7 +4216,7 @@ words, and sound best when yelled."
 .
 "The actions of men are the best interpreters of their
  thoughts."
- --John Locke
+ -- John Locke
 .
 "Christians are supposed not merely to endure change, nor even
  to profit by it, but to cause it."
@@ -4301,7 +4306,7 @@ words, and sound best when yelled."
 .
 "Earth provides enough to satisfy every man's need, but not
  every man's greed."
- --Mohandas Gandhi
+ -- Mohandas Gandhi
 .
 "...so long as the media are in corporate hands, the task of
  social change will be vastly more difficult, if not
@@ -5065,7 +5070,7 @@ out it would completely cover the Sahara Desert.
  from him and you'll have his shoes." -- Unknown
 .
 "I'm trying to see things from your point of view but I can't get
- my head that far up my ass." --- Unknown
+ my head that far up my ass." -- Unknown
 .
 "Early to rise, Early to bed, Makes a man healthy but socially
  dead." -- The Warner Brothers (Animaniacs)
@@ -5087,7 +5092,7 @@ out it would completely cover the Sahara Desert.
 "It's the liberal bias. The press is liberally biased to the
  right." -- Ken de Camargo
 .
-"83.7% of all statistics are made up" - Stephen Wright
+"83.7% of all statistics are made up" -- Stephen Wright
 .
 "That is the saving grace of humor, if you fail no one is laughing
  at you." -- A. Whitney Brown
@@ -6066,7 +6071,7 @@ Tech:     "Yes, you said that."
 "Premature optimization is the root of all evil." -- Donald Knuth
 .
 "UNIX is simple. It just takes a genius to understand its
- simplicity."-- Dennis Ritchie
+ simplicity." -- Dennis Ritchie
 .
 "If you give a man a fish, he will eat for today. If you teach
  him to fish, he'll understand why some people think golf is
@@ -6115,7 +6120,7 @@ The "abort()" function is now called "choice()."
 .
 "Modern capitalism is not about free markets, it is about
  building sufficient mass that the market gravitationally
- collapses around you."-- Alisdair Meredith
+ collapses around you." -- Alisdair Meredith
 .
 "If quantum physics doesn't confuse you then you don't
  understand it." -- Niels Bohr
@@ -6248,13 +6253,13 @@ The "abort()" function is now called "choice()."
  -- George Bernard Shaw (1856-1950)
 .
 "Whenever I climb I am followed by a dog called 'Ego'."
-    - Friedrich Nietzsche (1844-1900)
+ -- Friedrich Nietzsche (1844-1900)
 .
 "We have art to save ourselves from the truth."
-    - Friedrich Nietzsche (1844-1900)
+-- Friedrich Nietzsche (1844-1900)
 .
 "Never interrupt your enemy when he is making a mistake."
-    - Napoleon Bonaparte (1769-1821)
+-- Napoleon Bonaparte (1769-1821)
 .
 "I think 'Hail to the Chief' has a nice ring to it."
  -- John F. Kennedy (1917-1963) when asked what is his favorite
@@ -6264,14 +6269,14 @@ The "abort()" function is now called "choice()."
  and catastrophe." -- H. G. Wells (1866-1946)
 .
 "Talent does what it can; genius does what it must."
-    - Edward George Bulwer-Lytton (1803-1873)
+-- Edward George Bulwer-Lytton (1803-1873)
 .
 "The difference between 'involvement' and 'commitment' is like an
  eggs-and-ham breakfast: the chicken was 'involved' - the pig was
  'committed'." -- unknown
 .
 "If you are going through hell, keep going."
-    - Sir Winston Churchill (1874-1965)
+-- Sir Winston Churchill (1874-1965)
 .
 "I'm all in favor of keeping dangerous weapons out of the hands
  of fools. Let's start with typewriters."
@@ -6326,16 +6331,16 @@ The "abort()" function is now called "choice()."
  -- Sherlock Holmes (by Sir Arthur Conan Doyle, 1859-1930)
 .
 "Black holes are where God divided by zero."
-    - Steven Wright
+ -- Steven Wright
 .
 "I've had a wonderful time, but this wasn't it."
  -- Groucho Marx (1895-1977)
 .
 "It's kind of fun to do the impossible."
-    - Walt Disney (1901-1966)
+ -- Walt Disney (1901-1966)
 .
 "We didn't lose the game; we just ran out of time."
-    - Vince Lombardi
+ -- Vince Lombardi
 .
 "The optimist proclaims that we live in the best of all possible
  worlds, and the pessimist fears this is true."
@@ -6501,10 +6506,10 @@ The "abort()" function is now called "choice()."
  -- Ambrose Bierce (1842-1914)
 .
 "A narcissist is someone better looking than you are."
-    - Gore Vidal
+ -- Gore Vidal
 .
 "Wise men make proverbs, but fools repeat them."
-    - Samuel Palmer (1805-80)
+ -- Samuel Palmer (1805-80)
 .
 "It has become appallingly obvious that our technology has
  exceeded our humanity." -- Albert Einstein (1879-1955)
@@ -6597,7 +6602,7 @@ The "abort()" function is now called "choice()."
  -- Frank Lloyd Wright (1868-1959)
 .
 "It is dangerous to be sincere unless you are also stupid."
-    - George Bernard Shaw (1856-1950)
+ -- George Bernard Shaw (1856-1950)
 .
 "If you haven't got anything nice to say about anybody, come sit
  next to me." -- Alice Roosevelt Longworth (1884-1980)
@@ -6618,7 +6623,7 @@ The "abort()" function is now called "choice()."
  -- Jean-Paul Sartre (1905-1980)
 .
 "Well-timed silence hath more eloquence than speech."
-    - Martin Fraquhar Tupper
+ -- Martin Fraquhar Tupper
 .
 "Thank you for sending me a copy of your book - I'll waste no
  time reading it." -- Moses Hadas (1900-1966)
@@ -6683,7 +6688,7 @@ The "abort()" function is now called "choice()."
  over it." -- Steven Wright
 .
 "Mr. Wagner has beautiful moments but bad quarters of an hour."
-    - Gioacchino Rossini (1792-1868)
+ -- Gioacchino Rossini (1792-1868)
 .
 "Manuscript: something submitted in haste and returned at
  leisure." -- Oliver Herford (1863-1935)
@@ -6723,7 +6728,7 @@ The "abort()" function is now called "choice()."
  -- Abraham Lincoln (1809-1865)
 .
 "Few things are harder to put up with than a good example."
-    - Mark Twain (1835-1910)
+ -- Mark Twain (1835-1910)
 .
 "Hell is other people." -- Jean-Paul Sartre (1905-1980)
 .
@@ -6781,7 +6786,7 @@ The "abort()" function is now called "choice()."
 .
 "Men are not disturbed by things, but the view they take of
  things." -- Epictetus (55-135 A.D.)
-
+.
 "What about things like bullets?"
  -- Herb Kimmel, Behavioralist, Professor of Psychology, upon
     hearing the above quote (1981)
@@ -7113,10 +7118,10 @@ The "abort()" function is now called "choice()."
  -- Marvin Kitman.
 .
 "A man can't get rich if he takes proper care of his family."
- - Navaho saying.
+ -- Navaho saying.
 .
 "Giving birth is like taking your lower lip and forcing it over
- your head." - Carol Burnett.
+ your head." -- Carol Burnett.
 .
 "You have to stay in shape.  My grandmother, she started walking
  five miles a day when she was 60.  She's 97 today and we don't
@@ -7215,13 +7220,13 @@ The "abort()" function is now called "choice()."
 .
 "If you were my husband, I'd give you poison."
  -- Lady Astor to Churchill
-
+.
 "If you were my wife, I'd take it."
   -- Curchill to Lady Astor
 .
 "Sir, you will either die of the pox or on the gallows."
  -- The Earl Of Sandwich to John Wilkes
-
+.
 "That depends, sir, On whether I embrace your mistress or
  your principles" -- John Wilkes to the Earl of Sandwich
 .
@@ -7258,9 +7263,9 @@ The "abort()" function is now called "choice()."
 "I am enclosing two tickets to the first night of my new play;
  bring a friend... if you have one."
  -- George Bernard Shaw to Winston Churchill
-
+.
 "Cannot possibly attend first night, will attend second... if
- there is one." - Winston Churchill, in response.
+ there is one." -- Winston Churchill, in response.
 .
 "I feel so miserable without you; it's almost like having
  you here." -- Stephen Bishop
