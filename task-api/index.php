@@ -2,10 +2,21 @@
 require 'vendor/autoload.php';
 
 // Utwórz klienta Guzzle
+use GuzzleHttp\Client;
+$client = new Client();
 
 // Wykonaj zapytanie
+$req = $client->request('GET','https://api.github.com/repos/akai-org/trios/issues');
 
 // Przetwórz dane
+$req_array = (json_decode($req->getBody(), true));
+
+$issues = array();
+foreach ($req_array as $r) {
+  // filtering issues without pr - to get rid of that "filter", remove next line :)
+  if (!isset($r['pull_request']))
+    array_push($issues, ['title' => $r['title'], 'url' => $r['html_url']]);
+}
 
 ?>
 <!doctype html>
@@ -22,9 +33,11 @@ require 'vendor/autoload.php';
         <li class="list-group-item active">
           Last issues
         </li>
-        <?php // Wyświetl 5 issue { ?>
-        <a href="<?php // Link do issue ?>" class="list-group-item"><?php // Tytuł issue ?></a>
-        <?php } ?>
+        <?php
+          foreach($issues as $issue) {
+            echo '<a href="'.$issue['url'].'" class="list-group-item">'.$issue['title'].'</a>';
+          }
+        ?>
       </ul>
     </div>
   </div>
