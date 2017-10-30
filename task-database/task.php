@@ -50,7 +50,7 @@
             else {
                 if (preg_match('/^(\s)?[\"\']/', $d)) {
                     $noquotes = preg_split('/^(\s)?[\"\']/',$d);
-                    $noquotes = preg_split('/[\"\'](\s)?$/',$noquotes[1]);
+                    $noquotes = preg_split('/[\"\'](\s)*$/',$noquotes[1]);
                     $quote = $noquotes[0];
                 }
                 else {
@@ -62,10 +62,14 @@
             }
         }
 
+        // I had some issue with REGEXP in SQL querry, so I used fancy workaround, but still have some problems 
+        // with matching proper regex
+
         $results = $file_db->query("SELECT * FROM quotes WHERE name LIKE '% a%' OR '% e%' OR '% o%';");
+    
         foreach($results as $result) {
-            // echo '<p>Id: '.$result['id'].' quote: '.$result['quote'].' name: '.$result['name'].'</p>';
-            echo '<p>'.$result['quote'].'</p>';
+            if (preg_match('/[A-Za-z]+\s[AEO]{1}[\'A-Za-z]+[^\\s]+[A-Za-z ]\s$/', $result['name']))
+                echo '<p>'.$result['quote'].'</p>';
         }
 
         $file_db->exec("DROP TABLE quotes");
